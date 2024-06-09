@@ -37,6 +37,10 @@
     },
     "awardList": [
         {
+            "award_info": "",
+            "award_time": ""
+        },
+        {
             "award_info": "DevOps Master",
             "award_time": "2023"
         },
